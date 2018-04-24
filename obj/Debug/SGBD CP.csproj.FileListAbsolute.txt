@@ -1,0 +1,9 @@
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\bin\Debug\SGBD CP.exe.config
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\obj\Debug\SGBD CP.csprojResolveAssemblyReference.cache
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\obj\Debug\SGBD_CP.Form1.resources
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\obj\Debug\SGBD_CP.Properties.Resources.resources
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\obj\Debug\SGBD CP.csproj.GenerateResource.Cache
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\bin\Debug\SGBD CP.exe
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\bin\Debug\SGBD CP.pdb
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\obj\Debug\SGBD CP.exe
+C:\Users\William\Documents\visual studio 2015\Projects\SGBD CP\obj\Debug\SGBD CP.pdb
